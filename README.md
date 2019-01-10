@@ -1,12 +1,20 @@
-# Helper for Android
-install Maven 
+# Inara Helper
+  Helper universal for Android
+  
+  
+ ### Installing
+ 
+Maven 
+```
  <dependency>
   <groupId>com.inarahelper</groupId>
   <artifactId>inarahelper</artifactId>
   <version>0.1.1</version>
   <type>pom</type>
 </dependency>
+```
 
-
-Install gradle
+gradle
+```
 compile 'com.inarahelper:inarahelper:0.1.1'
+```
